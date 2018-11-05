@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore;
 using crm.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-
+/// test by roy
 namespace crm
 {
     public class Startup
